@@ -16,7 +16,7 @@ char *result;
 len1 = len2 = 0;
 if (s1 != NULL)
 {
-i =0;
+i = 0;
 while (s1[i++] != '\0')
 len1++;
 }
